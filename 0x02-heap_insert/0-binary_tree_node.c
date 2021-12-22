@@ -2,6 +2,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * binary_tree_node - Add a new node to the tree
+ * @parent: must be NULL or a node
+ * @value: node value
+ * Return: new node or null when fails to allocate the memory
+ */
+
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
