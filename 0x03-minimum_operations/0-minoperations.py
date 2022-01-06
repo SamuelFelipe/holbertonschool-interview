@@ -2,10 +2,11 @@
 
 '''
 Minimum Operations.
+return the number of operations
 '''
 
 def minOperations(n):
-    '''Minimum Operations'''
+    '''Minimum Operations function'''
 
     operations = 0
     string = 'H'
