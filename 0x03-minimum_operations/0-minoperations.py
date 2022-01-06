@@ -5,6 +5,7 @@ Minimum Operations.
 return the number of operations
 '''
 
+
 def minOperations(n):
     '''Minimum Operations function'''
 
