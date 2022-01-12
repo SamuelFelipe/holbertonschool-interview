@@ -4,13 +4,13 @@
 #include "sandpiles.h"
 
 /**
- * print_grid - print the grid
+ * print_grids - print the grid
  * @grid: <-
  *
  * Return: none
  */
 
-void print_grid(int grid[3][3])
+void print_grids(int grid[3][3])
 {
 	int i, j;
 
